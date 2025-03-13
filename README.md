@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # starter-ktx
 
 Kickstart your Android projects with a feature-rich template, designed for modern development.
